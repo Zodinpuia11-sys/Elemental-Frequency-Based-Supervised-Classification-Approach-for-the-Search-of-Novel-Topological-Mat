@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 import matplotlib as mpl
 
-file_path = r"C:\Users\Zodinpuia Ralte\OneDrive\Desktop\ML TM\Frequencies.xlsx"
+file_path = r"\mnt\Frequencies.xlsx"
 
 df = pd.read_excel(file_path)
 
